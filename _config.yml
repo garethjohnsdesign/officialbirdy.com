@@ -3,6 +3,9 @@ title: Birdy Beta
 url: http://birdy-beta.siteleaf.net
 timezone: UTC
 collections:
+  music:
+    title: Music
+    output: true
   posts:
     title: Posts
     output: true
