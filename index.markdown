@@ -11,6 +11,10 @@ google play: http://smarturl.it/BeautifulLies.GP
 layout: default
 ---
 
+{% include hero.html %}
+{% include feature-video.html %}
 {% include newsletter.html %}
+{% include videos.html %}
 {% include music.html %}
+{% include photos.html %}
 {% include live.html %}
