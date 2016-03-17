@@ -2,19 +2,6 @@
 title: Birdy Beta
 url: http://birdy-beta.siteleaf.net
 timezone: UTC
-analytics: 
-typekit: 
-description: The New Album Out 25 March featuring the new single Keeping Your Head
-  Up
-domain: http://officialbirdy.com/
-company: Atlantic Records UK
-email: hello@officialbirdy.com
-facebook: https://www.facebook.com/BirdyMusic
-twitter: https://twitter.com/officialbirdy
-youtube: https://www.youtube.com/user/OfficialBirdy
-instagram: https://www.instagram.com/birdyinstagram/
-spotify: https://play.spotify.com/artist/2WX2uTcsvV5OnS0inACecP
-soundcloud: https://soundcloud.com/officialbirdy
 collections:
   posts:
     title: Posts
@@ -34,4 +21,17 @@ defaults:
     type: pages
   values:
     layout: page
+analytics: 
+typekit: 
+description: The New Album Out 25 March featuring the new single Keeping Your Head
+  Up
+domain: http://officialbirdy.com/
+company: Atlantic Records UK
+email: hello@officialbirdy.com
+facebook: https://www.facebook.com/BirdyMusic
+twitter: https://twitter.com/officialbirdy
+youtube: https://www.youtube.com/user/OfficialBirdy
+instagram: https://www.instagram.com/birdyinstagram/
+spotify: https://play.spotify.com/artist/2WX2uTcsvV5OnS0inACecP
+soundcloud: https://soundcloud.com/officialbirdy
 permalink: pretty
