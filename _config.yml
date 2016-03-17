@@ -3,6 +3,9 @@ title: Birdy Beta
 url: http://birdy-beta.siteleaf.net
 timezone: UTC
 collections:
+  featured-videos:
+    title: Featured Videos
+    output: true
   music:
     title: Music
     output: true
