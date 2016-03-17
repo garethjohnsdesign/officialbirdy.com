@@ -1,0 +1,57 @@
+#instafeed img {
+// Only affects medium screens and larger
+	@include breakpoint(small) {
+		padding: 0rem;
+	}
+	
+	@include breakpoint(medium) {
+		padding: 1rem;
+	}
+}
+
+/* Instagram */
+
+/*
+#instafeed {
+	font-size: 0px;
+}
+*/
+
+#instafeed a {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	@include transition(all 0.3s ease); 
+}
+
+#instafeed a img {
+	@include transition(all 0.3s ease); 
+}
+
+#instafeed a:hover img {
+	opacity: 0.3;
+}
+
+.insta_caption {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 100%;
+	padding: 40px;
+	-webkit-transform: translate(-50%,-45%);
+	transform: translate(-50%,-45%);
+	color: #FFF;
+	font-size: 14px;
+	word-wrap: break-word;
+	pointer-events: none;
+	opacity: 0;
+	@include transition(all 0.3s ease); 
+}
+
+#instafeed a:hover .insta_caption {
+	-webkit-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	opacity: 1;
+	pointer-events: auto;
+}

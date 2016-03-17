@@ -1,0 +1,68 @@
+.music-title {
+	padding-top: 1rem;
+}
+
+.music-index {
+	padding-bottom: 2rem;
+} 
+
+#music-meta li > a {
+    padding: 0.25rem 0rem;
+}
+
+.cover {
+	opacity: 1;
+	@include transition(all 0.3s ease);
+	-webkit-backface-visibility: hidden;
+}
+
+.cover:hover {
+	opacity: 0.5;
+}
+
+.grid {
+    text-align: center;
+}
+
+.next {
+    text-align: right;
+}
+
+.previous {
+    text-align: left;
+}
+
+.paginate {
+    padding: 2rem 0;
+}
+
+// Tracklist
+
+#tracklists {
+  padding: 3rem 0rem; 
+}
+
+#tracklists h6 {
+}
+
+
+ul ol { 
+    margin-left: 0;
+}
+
+ol { 
+    counter-reset: item;
+    list-style-type: none;
+    list-style-position:inside;
+    text-align: center;
+    margin-left: 0;
+}
+
+
+ol li { display: block; }
+ol li:before { 
+    content: counter(item) "  "; 
+    counter-increment: item;
+    color: $white;
+    padding-right: 0.25rem;
+}

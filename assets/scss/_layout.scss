@@ -1,14 +1,37 @@
-// Layout
+// Util
 
-.content {
-    padding: 3rem;
+:focus {
+    outline: -webkit-focus-ring-color auto 0px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 0px;
 }
 
-.content  {
-  @include breakpoint(small only) {
-	  padding: 2rem;
-  }
-  @include breakpoint(medium) {
-  	  padding: 4rem;
-  }
+// Typography
+
+h1 {
+	font-family: $header-serif;
+	text-transform: uppercase;
+	letter-spacing: 0.5rem;
+}
+
+// Layout
+
+.section {
+	padding: 5rem 0;
+	border-bottom: 1px solid $project-white;
+}
+
+.section-title {
+	padding: 0 0 3rem 0;
+}
+
+#music { 
+}
+
+#subscribe { 
+}
+
+#live {
+  border-bottom: 0px solid $project-white;
 }

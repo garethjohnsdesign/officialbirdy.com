@@ -46,25 +46,28 @@
 // ---------
 
 $global-font-size: 100%;
-$global-width: rem-calc(1200);
+// $global-width: rem-calc(1200);
+$global-width: rem-calc(1100);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: #0a0a0a,
+//   primary: #2199e8,
+  primary: $project-white,
   secondary: #777,
   success: #3adb76,
   warning: #ffae00,
   alert: #ec5840,
-  project-red: #ec5840,
 );
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #0a0a0a;
 $white: #fefefe;
-$body-background: $white;
-$body-font-color: $black;
+// $body-background: $white;
+$body-background: $project-black;
+// $body-font-color: $black;
+$body-font-color: $project-pink;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
-$body-font-family: 'Neutral', Helvetica, Roboto, Arial, sans-serif;
+$body-font-family: 'NittiGrotesk-Medium', Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
@@ -104,6 +107,7 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
+$header-serif: 'SerifGothicStd-Bold', serif;
 $header-font-family: $body-font-family;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
@@ -142,8 +146,7 @@ $code-background: $light-gray;
 $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 $anchor-color: $primary-color;
-// $anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
-$anchor-color-hover: $medium-gray;
+$anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
 $hr-width: $global-width;
@@ -209,7 +212,8 @@ $accordion-content-padding: 1rem;
 // 8. Accordion Menu
 // -----------------
 
-$accordionmenu-arrows: true;
+// $accordionmenu-arrows: true;
+$accordionmenu-arrows: false;
 $accordionmenu-arrow-color: $primary-color;
 
 // 9. Badge
@@ -380,7 +384,8 @@ $mediaobject-image-width-stacked: 100%;
 // --------
 
 $menu-margin: 0;
-$menu-margin-nested: 1rem;
+// $menu-margin-nested: 1rem;
+$menu-margin-nested: 0rem;
 $menu-item-padding: 0.7rem 1rem;
 $menu-item-color-active: $white;
 $menu-item-background-active: map-get($foundation-palette, primary);
@@ -562,7 +567,8 @@ $tooltip-radius: $global-radius;
 // -----------
 
 $topbar-padding: 0.5rem;
-$topbar-background: $light-gray;
+// $topbar-background: $light-gray;
+$topbar-background: $project-black;
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 1rem;
 $topbar-input-width: 200px;

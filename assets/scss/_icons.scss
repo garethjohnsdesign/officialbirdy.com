@@ -1,0 +1,58 @@
+// Icons
+
+// Base
+
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+}
+
+/* =======================================================================================
+Example showing how to change the color/size of the icons:
+.icon-name {
+	font-size: 32px; // works because "width" & "height" were set using em units
+	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
+}
+======================================================================================== */
+
+.icon-facebook {
+	width: 0.71875em;
+}
+
+.icon-instagram {
+	width: 0.71875em;
+}
+
+.icon-soundcloud {
+	width: 0.71875em;
+}
+
+.icon-spotify {
+	width: 0.71875em;
+}
+
+.icon-twitter {
+	width: 0.71875em;
+}
+
+.icon-untitled {
+	width: 0.71875em;
+}
+
+.icon-youtube {
+	width: 0.71875em;
+}
+
+.icon-logo {
+	width: 2em;
+}
+
+
+// Custom
+
+.icon-logo {
+	font-size: 3.5rem;
+}
+
