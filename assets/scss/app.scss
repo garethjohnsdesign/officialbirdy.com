@@ -64,7 +64,3 @@
 @import 'video';
 @import 'newsletter';
 @import 'footer';
-
-.animate-fade-in {
-  @include mui-animation(fade);
-}

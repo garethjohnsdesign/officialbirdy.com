@@ -1,22 +1,53 @@
-<footer class="site-footer">
+<!-- Footer -->
+<footer>
+<div class="row hide-for-small-only" id="top">
 
-  <div class="wrapper">
+<!-- Left -->
+<div class="small-4 columns">© Atlantic Records UK 2016</div>
+<!-- End Left -->
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+<!-- Center -->
+<div class="small-4 columns">
+<ul class="menu expanded text-center">
+        <li><a href="/music">Music</a></li>
+        <li><a href="/videos">Videos</a></li>
+        <li><a href="/live">Live</a></li>
+        <li><a href="http://birdy.warnerartists.net/uk/">Shop</a></li>
+</ul>
+</div>
+<!-- End Center -->
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+<!-- Right -->
+<div class="small-4 columns text-right" id="footer-socials">
+<ul class="menu expanded">
+        <li><a href="{{site.meta['Facebook']}}"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+        <li><a href="{{site.meta['Twitter']}}"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+        <li><a href="{{site.meta['Instagram']}}"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
+        <li><a href="{{site.meta['Spotify']}}"><svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg></a></li>
+</ul>	
+</div>
+<!-- End Right -->
+</div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
+<div class="row align-center text-center" id="bottom">
+<div class="small-12 medium-6 columns">
+<ul class="menu expanded text-center">
+	<li><a href="http://www.wminewmedia.com/t&c/">Terms and Conditions</a></li>
+	<li><a href="http://www.wminewmedia.com/privacy/">Privacy Policy</a></li>
+</ul>
+</div>
+</div>
 
-  </div>
+<div class="row align-center show-for-small-only text-center" id="footer-small">
+<div class="small-12 columns">
+<ul class="menu expanded">
+	<li><a href="{{site.meta['Facebook']}}"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="{{site.meta['Twitter']}}"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="{{site.meta['Instagram']}}"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>
+	<li><a href="{{site.meta['Spotify']}}"><svg class="icon icon-spotify"><use xlink:href="#icon-spotify"></use></svg></a></li>
+</ul>
+</div>
+</div>
 
 </footer>
+<!-- End Footer -->

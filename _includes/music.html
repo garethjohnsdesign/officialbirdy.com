@@ -16,10 +16,10 @@
 		<div class="small-12 columns">
 			<div class="owl-carousel music-carousel">
 			<!-- Loop -->
-			{% for post in site.pages.music.posts %}
+			{% for post in site.music.posts %}
 			<div class="row align-center">
 				<div class="small-12 columns text-center">	
-				<a href="{{ post.url }}"><img class="cover" src="{{post.meta['Cover']}}"></a>
+				<a href="{{ post.url }}"><img class="cover" src="{{post.cover}}"></a>
 				<h5 class="music-title"><a href="{{ post.url }}">{{post.title}}</a></h5>
 				
 				<ul class="vertical menu" id="music-meta" data-accordion-menu>
@@ -32,14 +32,14 @@
 					<li>
 						<a href="#">Buy</a>
 						<ul class="menu vertical nested">
-							{% if {{post.meta['iTunes']}} %}
-							<li><a href="{{post.meta['iTunes']}}" target="_blank">iTunes</a></li>
+							{% if {{post.itunes}} %}
+							<li><a href="{{post.itunes}}" target="_blank">iTunes</a></li>
 							{% endif %}
-							{% if {{post.meta['Amazon']}} %}
-							<li><a href="{{post.meta['Amazon']}}" target="_blank">Amazon</a></li>
+							{% if {{post.amazon}} %}
+							<li><a href="{{post.amazon}}" target="_blank">Amazon</a></li>
 							{% endif %}
-							{% if {{post.meta['Google']}} %}
-							<li><a href="{{post.meta['Google']}}" target="_blank">Google</a></li>
+							{% if {{post.google}} %}
+							<li><a href="{{post.google}}" target="_blank">Google</a></li>
 							{% endif %}
 						</ul>
 					</li>

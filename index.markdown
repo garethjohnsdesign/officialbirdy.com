@@ -11,10 +11,15 @@ google play: http://smarturl.it/BeautifulLies.GP
 layout: default
 ---
 
-{% include hero.html %}
-{% include feature-video.html %}
+
 {% include newsletter.html %}
-{% include videos.html %}
-{% include music.html %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 {% include photos.html %}
 {% include live.html %}
