@@ -1,0 +1,50 @@
+// Underlines
+// http://codepen.io/ghepting/pen/tLnHK/
+$background-color: $white;
+$link-color: $black;
+$link-color-active: $medium-gray;
+$link-underline-color: $link-color;
+$link-underline-color-active: $link-color-active;
+$link-underline-width: 1px;
+$link-underline-offset: 1px;
+$breaking-underlines: true;
+
+@mixin underline($color: $link-underline-color, $weight: $link-underline-width, $offset: $link-underline-offset) {
+
+  @if $breaking-underlines {
+    text-shadow:
+    -1px -1px 0 $background-color,
+    1px -1px 0 $background-color,
+    -1px 1px 0 $background-color,
+    1px 1px 0 $background-color;
+  }
+
+  background-image: linear-gradient(
+    to top,
+    transparent,
+    transparent $offset,
+    $color $offset,
+    $color ($offset + $weight),
+    transparent ($offset + $weight)
+  );
+
+  @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+
+    background-image: linear-gradient(
+      to top,
+      transparent,
+      transparent $offset,
+      $color $offset,
+      $color ($offset + $link-underline-width/2),
+      transparent ($offset + $link-underline-width/2)
+    );
+  }
+}
+
+body a {
+  @include underline();
+}
+
+body a:hover {
+  @include underline($color: $link-underline-color-active);
+}

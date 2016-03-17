@@ -1,0 +1,97 @@
+<!-- Videos -->
+<section class="section wow fadeIn" id="videos">
+
+	  	<div class="row align-center">
+		  <div class="small-12 columns text-center">  
+	
+	<!-- Title -->	 
+	<div class="row section-title">
+		<div class="small-12 columns text-center">
+			<h3>Videos</h3> 
+		</div>
+	</div>
+	<!-- End Title -->
+	
+	<!-- Content -->	
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="owl-carousel videos-carousel">
+				
+				
+			<!-- Loop -->
+		<div class="cell">
+		{% for post in site.pages.videos.posts limit:2 %}
+<div class="row expanded align-middle video" style="background-image: url('{{post.meta['Image']}}')">
+	<div class="small-12 columns">		  
+		<div class="row expanded align-center text-center">
+			<div class="small-12 medium-12 columns">
+				<h3><a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity>{{post.title}}</a></h3>
+				<a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity><button class="hollow button">Play Video</button></a>
+			</div>
+		</div>
+	</div>
+</div>
+		{% endfor %}
+		</div>
+		
+		<div class="cell">
+		{% for post in site.pages.videos.posts limit:2 offset:2 %}
+<div class="row expanded align-middle video" style="background-image: url('{{post.meta['Image']}}')">
+	<div class="small-12 columns">		  
+		<div class="row expanded align-center text-center">
+			<div class="small-12 medium-12 columns">
+				<h3><a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity>{{post.title}}</a></h3>
+				<a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity><button class="hollow button">Play Video</button></a>
+			</div>
+		</div>
+	</div>
+</div>
+		{% endfor %}
+		</div>
+		
+		<div class="cell">
+		{% for post in site.pages.videos.posts limit:2 offset:4 %}
+<div class="row expanded align-middle video" style="background-image: url('{{post.meta['Image']}}')">
+	<div class="small-12 columns">		  
+		<div class="row expanded align-center text-center">
+			<div class="small-12 medium-12 columns">
+				<h3><a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity>{{post.title}}</a></h3>
+				<a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity><button class="hollow button">Play Video</button></a>
+			</div>
+		</div>
+	</div>
+</div>
+		{% endfor %}
+		</div>
+		
+		<div class="cell">
+		{% for post in site.pages.videos.posts limit:2 offset:6 %}
+<div class="row expanded align-middle video" style="background-image: url('{{post.meta['Image']}}')">
+	<div class="small-12 columns">		  
+		<div class="row expanded align-center text-center">
+			<div class="small-12 medium-12 columns">
+				<h3><a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity>{{post.title}}</a></h3>
+				<a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity><button class="hollow button">Play Video</button></a>
+			</div>
+		</div>
+	</div>
+</div>
+		{% endfor %}
+		</div>
+		
+		<!-- End Loop -->
+			
+			
+			
+			
+			
+			
+			</div>
+		</div>
+	</div>
+	<!-- Content -->
+			  
+			</div>
+		</div>	  
+</section>
+<!-- End Videos -->

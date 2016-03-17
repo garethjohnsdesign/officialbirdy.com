@@ -1,0 +1,14 @@
+// Layout
+
+.content {
+    padding: 3rem;
+}
+
+.content  {
+  @include breakpoint(small only) {
+	  padding: 2rem;
+  }
+  @include breakpoint(medium) {
+  	  padding: 4rem;
+  }
+}

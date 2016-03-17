@@ -1,0 +1,14 @@
+{% for post in site.pages.videos.taxonomy['Tags']['Featured'].posts %}
+<!-- Feature Video -->			  
+<section class="row expanded align-middle wow fadeIn" id="feature-video" style="background-image: url('{{post.meta['Feature Image']}}')">
+<div class="small-12 columns">		  
+		  <div class="row expanded align-center text-center">
+			  <div class="small-12 medium-12 columns">
+			    <h2><a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity>{{post.title}}</a></h2>
+				<a href="//www.youtube.com/watch?v={{post.meta['Video']}}" data-lity><button class="hollow button">Play Video</button></a>
+		      </div>
+		  </div>
+</div>
+</section>
+<!-- End Feature Video -->
+{% endfor %}
