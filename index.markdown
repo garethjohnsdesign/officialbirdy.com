@@ -11,7 +11,6 @@ google play: http://smarturl.it/BeautifulLies.GP
 layout: default
 ---
 
-
 {% include newsletter.html %}
 <ul>
   {% for post in site.posts %}
