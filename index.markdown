@@ -8,13 +8,5 @@ apple music: http://smarturl.it/BeautifulLies.AP
 spotify: http://smarturl.it/BeautifulLies.SP
 amazon: http://smarturl.it/BeautifulLies.AM
 google play: http://smarturl.it/BeautifulLies.GP
-layout: default
+layout: home
 ---
-
-{% include hero.html %}
-{% include feature-video.html %}
-{% include newsletter.html %}
-{% include videos.html %}
-{% include music.html %}
-{% include photos.html %}
-{% include live.html %}
