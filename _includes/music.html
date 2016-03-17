@@ -19,35 +19,35 @@
 			{% for music in site.music %}
 			<div class="row align-center">
 				<div class="small-12 columns text-center">	
-				<a href="{{ post.url }}"><img class="cover" src="{{post.cover}}"></a>
+				<a href="{{ post.url }}"><img class="cover" src="{{music.cover}}"></a>
 				<h5 class="music-title"><a href="{{ post.url }}">{{music.title}}</a></h5>
 				
 				<ul class="vertical menu" id="music-meta" data-accordion-menu>
 					<li>
 						<a href="#">Tracklist</a>
 						<ul class="menu vertical nested">
-							<li>{{post.body}}</li>
+							<li>{{music.body}}</li>
 						</ul>
 					</li>
 					<li>
 						<a href="#">Buy</a>
 						<ul class="menu vertical nested">
-							{% if {{post.itunes}} %}
-							<li><a href="{{post.itunes}}" target="_blank">iTunes</a></li>
+							{% if {{music.itunes}} %}
+							<li><a href="{{music.itunes}}" target="_blank">iTunes</a></li>
 							{% endif %}
-							{% if {{post.amazon}} %}
-							<li><a href="{{post.amazon}}" target="_blank">Amazon</a></li>
+							{% if {{music.amazon}} %}
+							<li><a href="{{music.amazon}}" target="_blank">Amazon</a></li>
 							{% endif %}
-							{% if {{post.google}} %}
-							<li><a href="{{post.google}}" target="_blank">Google</a></li>
+							{% if {{music.google}} %}
+							<li><a href="{{music.google}}" target="_blank">Google</a></li>
 							{% endif %}
 						</ul>
 					</li>
-					{% if {{post.meta['Stream']}} %}
+					{% if {{music.stream}} %}
 					<li>
 						<a href="#">Stream</a>
 						<ul class="menu vertical nested">
-							<li><a href="{{post.meta['Stream']}}" target="_blank">Spotify</a></li>
+							<li><a href="{{music.stream}}" target="_blank">Spotify</a></li>
 						</ul>
 					</li>
 					{% endif %}

@@ -13,5 +13,4 @@ layout: default
 
 {% include newsletter.html %}
 {% include music.html %}
-{% include photos.html %}
 {% include live.html %}
