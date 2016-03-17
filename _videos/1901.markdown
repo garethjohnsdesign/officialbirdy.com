@@ -1,7 +1,0 @@
----
-title: '1901'
-date: 2012-02-10 16:52:00 Z
-image: "/uploads/1901.jpg"
-video: jlaeJ6k75cY
----
-
