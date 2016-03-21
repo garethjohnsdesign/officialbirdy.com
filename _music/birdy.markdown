@@ -9,6 +9,7 @@ itunes: https://itunes.apple.com/gb/album/birdy/id470939123
 amazon: 
 google: 
 stream: https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u
+layout: music
 ---
 
 1. 1901  

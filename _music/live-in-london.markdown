@@ -6,6 +6,7 @@ itunes: https://itunes.apple.com/gb/album/live-in-london/id549028402
 amazon: 
 google: 
 stream: https://open.spotify.com/album/55BQeeBdoCapsI5SZFA3IN
+layout: music
 ---
 
 1. Shelter (Live)  

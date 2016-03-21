@@ -6,6 +6,7 @@ itunes: https://itunes.apple.com/gb/album/people-help-the-people-ep/id473981658
 amazon: 
 google: 
 stream: https://play.spotify.com/album/3ajUIQ9PMEaSCpsYkMpxvu
+layout: music
 ---
 
 1. People Help the People  

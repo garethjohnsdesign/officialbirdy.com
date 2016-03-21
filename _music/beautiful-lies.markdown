@@ -6,6 +6,7 @@ itunes: http://smarturl.it/beautifullies.itunes
 amazon: http://smarturl.it/beautifullies.AM
 google: http://smarturl.it/beautifullies.gp
 stream: http://smarturl.it/BeautifulLies.SP
+layout: music
 ---
 
 1. Growing Pains  

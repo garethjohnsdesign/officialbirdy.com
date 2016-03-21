@@ -6,6 +6,7 @@ itunes: https://itunes.apple.com/gb/album/no-angel-single/id709192525
 amazon: 
 google: 
 stream: https://open.spotify.com/track/1zxVazSCSoclwCJy7dmDGZ
+layout: music
 ---
 
 1. No Angel

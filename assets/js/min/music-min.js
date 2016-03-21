@@ -1,0 +1,1 @@
+$(document).foundation(),$("#toggle").click(function(){$(this).toggleClass("active"),$("#overlay").toggleClass("open")}),$(document).ready(function(){wow=new WOW({boxClass:"wow",animateClass:"animated",offset:200,mobile:!0,live:!0}),wow.init()});

@@ -2,15 +2,38 @@
 <html>
 
 {% include head.html %}
-{% include icons.html %}
 
 <body>
 
 {% include header.html %}
-{{ content }}
-{% include footer.html %} 
-{% include scripts.html %} 
 
+<!-- Content -->	
+	<div class="row">
+		<div class="columns text-center">	
+		<img src="{{page.cover}}">
+		<h5 class="music-title">{{page.title}}</h5>
+		<p>{{content}}</p>
+		{% if {{page['itunes']}} %}
+		<a href="{{page['itunes']}}" target="_blank">iTunes</a> /
+		{% endif %}
+		{% if {{page['amazon']}} %}
+		<a href="{{page['amazon']}}" target="_blank">Amazon</a> /
+		{% endif %}
+		{% if {{page['google']}} %}
+		<a href="{{page['google']}}" target="_blank">Google</a> /
+		{% endif %}
+		{% if {{page['stream']}} %}
+		<a href="{{page['stream']}}" target="_blank">Spotify</a>
+		{% endif %}
+		</div>
+	</div>
+<!-- Content -->
+
+{% include pagination.html %} 
+{% include footer.html %} 
+
+<script src="/assets/js/min/default-min.js"></script>
+<script src="/assets/js/min/music-min.js"></script>
 
 </body>
 

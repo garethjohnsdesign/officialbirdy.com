@@ -6,6 +6,7 @@ itunes: https://itunes.apple.com/gb/album/words-as-weapons/id673277385?i=6732776
 amazon: 
 google: 
 stream: https://open.spotify.com/track/2xYtuB16vJd4bMMHoku26H
+layout: music
 ---
 
 1. Words As Weapons

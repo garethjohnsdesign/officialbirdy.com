@@ -6,6 +6,7 @@ itunes: https://itunes.apple.com/gb/album/fire-within-deluxe-version/id673277385
 amazon: 
 google: 
 stream: https://play.spotify.com/album/6ig2k0oiH2AXm8MugikskB
+layout: music
 ---
 
 1. Wings  

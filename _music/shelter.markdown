@@ -6,6 +6,7 @@ itunes: https://itunes.apple.com/gb/album/birdy/id470939123
 amazon: 
 google: 
 stream: https://open.spotify.com/track/55d9B5VHgzzW7dqXVT8oz2
+layout: music
 ---
 
 1. Shelter

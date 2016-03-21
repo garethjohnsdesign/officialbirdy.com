@@ -2,24 +2,18 @@
 <div class="small-12 medium-6 columns text-center">	
 
 <div class="row align-center paginate">
-        <div class="column small-5 previous">
-		    <a href="{{ current.previous.url }}" style="visibility: {% if current.previous %}visible{% else %}hidden{% endif %}"><i class="material-icons">arrow_back</i></a>
-		</div>
-        
-        <div class="column small-2 grid">
-	        {% if parent %}
-		  <a href="{{parent.url}}"><i class="material-icons md-24">grid_on</i></a>
-			{% endif %}
-        </div>
-        
-        
-        <div class="column small-5 next"><a href="{{ current.next.url }}" style="visibility: {% if current.next %}visible{% else %}hidden{% endif %}">
-	        <i class="material-icons">arrow_forward</i></a></div>
+    <div class="column small-5 previous">
+	    <a href="{{ page.previous.url }}" style="visibility: {% if page.previous %}visible{% else %}hidden{% endif %}"><i class="material-icons">arrow_back</i></a>
+	</div>
+    
+    <div class="column small-2 grid">
+	  <a href="../"><i class="material-icons md-24">grid_on</i></a>
+    </div>
+    
+    
+    <div class="column small-5 next"><a href="{{ page.next.url }}" style="visibility: {% if page.next %}visible{% else %}hidden{% endif %}">
+        <i class="material-icons">arrow_forward</i></a></div>
 </div>
 
 </div>
 </div>
-
-
-
-
