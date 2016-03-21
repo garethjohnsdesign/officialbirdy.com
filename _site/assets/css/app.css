@@ -7067,6 +7067,9 @@ Example showing how to change the color/size of the icons:
 .icon-logo {
   font-size: 3.5rem; }
 
+.wow {
+  visibility: hidden; }
+
 :focus {
   outline: -webkit-focus-ring-color auto 0px;
   outline-color: -webkit-focus-ring-color;

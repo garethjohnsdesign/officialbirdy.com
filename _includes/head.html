@@ -24,8 +24,8 @@
 <meta property="og:locale" content="en_GB" />
 <meta property="og:url" content="{{site.meta['domain']}}/" />
 <meta property="og:image" content="{{site.meta['domain']}}/img/meta/meta-image.jpg" />
-<meta property="og:description" content="{{site.meta['Description']}}" />
-<meta property="og:site_name" content="{{site.meta['Title']}}" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
 
 <!-- Icons -->
 <link rel="apple-touch-icon" sizes="57x57" href="assets/img/icons/apple-touch-icon-57x57.png">
@@ -55,5 +55,6 @@
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
 {% include analytics.html %}
+{% include icons.html %}
 
 </head>
