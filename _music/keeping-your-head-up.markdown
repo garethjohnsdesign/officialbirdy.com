@@ -10,6 +10,7 @@ stream: http://smarturl.it/BeautifulLies.SP
 tracks:
 - name: Keeping Your Head Up
   watch: 
-  lyrics_md:
+  lyrics_md: 
 layout: music
 ---
+

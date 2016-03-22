@@ -9,10 +9,11 @@ google:
 stream: https://play.spotify.com/album/3ajUIQ9PMEaSCpsYkMpxvu
 layout: music
 tracks:
-- name: People Help the People  
+- name: People Help the People
   watch: 
-  lyrics_md:
-- name: Four Eyes 
+  lyrics_md: 
+- name: Four Eyes
   watch: 
-  lyrics_md:
+  lyrics_md: 
 ---
+

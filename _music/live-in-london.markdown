@@ -9,28 +9,29 @@ google:
 stream: https://open.spotify.com/album/55BQeeBdoCapsI5SZFA3IN
 layout: music
 tracks:
-- name: Shelter (Live) 
+- name: Shelter (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 - name: The a Team (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 - name: 1901 (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 - name: Just a Game (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 - name: Young Blood (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 - name: People Help the People (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 - name: Terrible Love (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 - name: Skinny Love (Live)
   watch: 
-  lyrics_md:
+  lyrics_md: 
 ---
+
