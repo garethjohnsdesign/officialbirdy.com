@@ -1,6 +1,6 @@
 ---
 title: Live In London
-date: 2016-02-10 18:26:00 Z
+date: 2011-11-07 18:26:00 Z
 position: 7
 cover: "/uploads/live-in-london.jpg"
 itunes: https://itunes.apple.com/gb/album/live-in-london/id549028402
