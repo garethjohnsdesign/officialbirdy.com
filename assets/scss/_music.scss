@@ -66,3 +66,11 @@ ol li:before {
     color: $white;
     padding-right: 0.25rem;
 }
+
+.music-default ol { 
+    text-align: left;
+}
+
+.music-default ol li:before {
+    float: left;
+}

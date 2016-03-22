@@ -7,14 +7,18 @@ amazon: http://smarturl.it/beautifullies.AM
 google: http://smarturl.it/beautifullies.gp
 stream: http://smarturl.it/BeautifulLies.SP
 tracks:
-- name: Product One
-  arbitrary: Value
-- name: Product Two
-  arbitrary: Value
-- name: Product Three
-  arbitrary: Value
-- name: Product Four
-  arbitrary: Value
+- name: Growing Pains
+  watch: 
+  lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue.
+- name: Shadow
+  watch: Value
+  lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue.
+- name: Keeping Your Head Up
+  watch: Value
+  lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue.
+- name: Deep End
+  watch: Value
+  lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue.
 layout: music
 ---
 

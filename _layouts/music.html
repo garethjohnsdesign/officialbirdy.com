@@ -8,19 +8,29 @@
 {% include header.html %}
 
 <!-- Content -->	
-	<div class="row">
-		<div class="columns text-center">	
+	<div class="row music-default">
+		<div class="small-12 medium-6 columns">	
 		<img src="{{page.cover}}">
-		<h5 class="music-title">{{page.title}}</h5>
-
+		</div>
 		
-		<ul>{% for track in page.tracks %}
-  <li>{{ track.name }}: {{ track.arbitrary }}{% if track.nested-products %}
-    <ul>
-    {% for trackproduct in track.nested-products %}  <li>{{ nestedtrack.nested }}: {{ nestedtrack.sub-arbitrary }}</li>
-    {% endfor %}</ul>
-  {% endif %}</li>{% endfor %}
-</ul>
+		<div class="small-12 medium-6 columns">
+		<h3>{{page.title}}</h5>
+		<ol>
+		{% for track in page.tracks %}
+		<li>
+		<div class="row">
+		<div class="small-12 medium-6 columns">
+		{{ track.name }}
+		</div>
+		<div class="small-12 medium-6 columns">
+		{% if track.watch %}
+		Watch — Lyrics — Buy
+		{% endif %}
+		</div>
+		</div>
+		</li>
+		{% endfor %}
+		</ol>
 
 		{% if {{page['itunes']}} %}
 		<a href="{{page['itunes']}}" target="_blank">iTunes</a> /
