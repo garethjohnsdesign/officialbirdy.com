@@ -545,7 +545,73 @@ tracks:
     Me, me
 - name: Words
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    Waiting on you\
+    Trying to keep your head strong\
+    With nothing to lose\
+    You raise your voice with something to prove\
+    And all the things you say to me\
+    I can’t forget them
+
+    You don’t leave\
+    But you tell me with your eyes what you need\
+    Oh please\
+    Do you think that I don’t know what it means\
+    All the things you hide from me\
+    I accept them
+
+    I just need you next to me
+
+    If I can’t hold you now\
+    Keep thinking that you might not come around\
+    I have no words\
+    I have no words to say\
+    If I can’t change your mind\
+    Keep thinking is this our last goodbye?\
+    You say it first\
+    You say it first to me
+
+    You’re in the clear\
+    While I’m waking up to nothing but tears\
+    And you stay the same\
+    Like I’m the only one that needed to change\
+    You know the things you said to me\
+    Do you regret them?
+
+    I just need you next to me
+
+    If I can’t hold you now\
+    Keep thinking that you might not come around\
+    I have no words\
+    I have no words to say\
+    If I can’t change your mind\
+    Keep thinking is this our last goodbye?\
+    You say it first\
+    You say it first to me
+
+    So I,\
+    Can just forget you\
+    Just forget you\
+    Can just forget you\
+    Just forget you
+
+    And if I can’t hold you now\
+    Keep thinking how you might not come around\
+    I have no words\
+    I have no words to say\
+    If I can’t change your mind\
+    Keep thinking is this our last goodbye?\
+    You say it first\
+    You say it first to me
+
+    And if I can’t hold you now\
+    Keep thinking that you might not come around\
+    I have no words\
+    I have no words to say\
+    If I can’t change your mind\
+    Keep thinking is this our last goodbye?\
+    You say it first\
+    You say it first to me
 - name: Save Yourself
   watch: 
   lyrics_md: 
