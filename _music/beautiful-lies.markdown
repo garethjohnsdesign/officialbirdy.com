@@ -266,7 +266,68 @@ tracks:
     What you never found
 - name: Silhouette
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    There are shadows in my dreams\
+    Storms that steer me out of reach\
+    And you just wait on my defeat
+
+    So I built an army underneath\
+    And now they guard me while I sleep\
+    And this worn out frame will carry me
+
+    Don’t go holding your breath\
+    You know that I’m not done yet\
+    There’s still a fight in me left\
+    Don’t go shouting out loud\
+    That you’re claiming the crown\
+    I’m down but not out
+
+    And the bittersweet\
+    Of every new defeat\
+    Is I’m stronger that before\
+    Maybe on my knees\
+    But I still believe\
+    These broken wings will soar
+
+    Untie my silhouette\
+    It’s all that is left\
+    Of a broken heart\
+    Leave all of my regrets\
+    To sink like ship wrecks\
+    Through oceans dark
+
+    In the dust I wrote my name\
+    And from the ruins hopes were raised\
+    Coz all that’s lost can be replaced\
+    In time
+
+    Don’t go holding your breath\
+    You know that I’m not done yet\
+    There’s still a fight in me left\
+    Don’t go shouting out loud\
+    That you’re claiming the crown\
+    I’m down but not out
+
+    And the bittersweet\
+    Of every new defeat\
+    Is I’m stronger that before\
+    Maybe on my knees\
+    But I still believe\
+    These broken wings will soar
+
+    Untie my silhouette\
+    It’s all that is left\
+    Of a broken heart\
+    Leave all of my regrets\
+    To sink like ship wrecks\
+    Through oceans dark
+
+    Untie my silhouette\
+    It’s all that is left\
+    Of a broken heart\
+    Leave all of my regrets\
+    To sink like ship wrecks\
+    Through oceans dark
 - name: Lifted
   watch: 
   lyrics_md: 
