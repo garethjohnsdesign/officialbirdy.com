@@ -227,7 +227,43 @@ tracks:
     Wild horses run in me
 - name: Lost It All
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    Give a little time to me\
+    Give a little trust and you’d see\
+    Give a little piece of mind\
+    You never know what you might find
+
+    Oh if this is what dreams are made on\
+    Then I think that I’ve seen enough\
+    Oh I’ve given you all of my love\
+    But it’s still not enough
+
+    You told me that you’d light my way\
+    You're clever with the words you say\
+    Led me out into the dark\
+    I took a little step too far
+
+    Oh if this is what dreams are made on\
+    Then I think that I’ve seen enough\
+    Oh I’ve given you all of my love\
+    But it’s still not enough
+
+    Oh it hurts\
+    Lost control\
+    Oh it hurts\
+    Lost it all\
+    It hurts sometimes\
+    Sometimes
+
+    If this is what dreams are made on\
+    Then I think that I’ve seen enough\
+    Oh I’ve given you all of my love\
+    But it’s still not enough
+
+    A bitter heart\
+    You let me down\
+    But you’ll never lose\
+    What you never found
 - name: Silhouette
   watch: 
   lyrics_md: 
