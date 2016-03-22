@@ -986,21 +986,3 @@ tracks:
 layout: music
 ---
 
-1. Growing Pains  
-1. Shadow  
-1. Keeping Your Head Up  
-1. Deep End    
-1. Wild Horses     
-1. Lost It All     
-1. Silhouette      
-1. Lifted     
-1. Take My Heart      
-1. Hear You Calling    
-1. Words     
-1. Save Yourself      
-1. Unbroken    
-1. Beautiful Lies    
-1. Beating Heart    
-1. Winter    
-1. Give Up    
-1. Start Again     
