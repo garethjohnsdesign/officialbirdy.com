@@ -97,7 +97,7 @@ tracks:
   watch: m8AXUq5uA0Y
   lyrics_md: 
 - name: Deep End
-  watch: Value
+  watch: 
   lyrics_md: |-
     Someone told me\
     That I’ll want more\
