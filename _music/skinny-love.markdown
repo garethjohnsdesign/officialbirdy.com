@@ -1,7 +1,7 @@
 ---
 title: Skinny Love
 date: 2016-02-07 15:11:00 Z
-position: 11
+position: 10
 cover: "/uploads/skinny-love-1.jpg"
 itunes: https://itunes.apple.com/nz/album/skinny-love-single/id416879036
 amazon: 
