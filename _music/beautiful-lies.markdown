@@ -7,14 +7,14 @@ amazon: http://smarturl.it/beautifullies.AM
 google: http://smarturl.it/beautifullies.gp
 stream: http://smarturl.it/BeautifulLies.SP
 tracks:
- - name: Product One
-   arbitrary: Value
- - name: Product Two
-   arbitrary: Value
- - name: Product Three
-   arbitrary: Value
- - name: Product Four
-   arbitrary: Value
+- name: Product One
+  arbitrary: Value
+- name: Product Two
+  arbitrary: Value
+- name: Product Three
+  arbitrary: Value
+- name: Product Four
+  arbitrary: Value
 layout: music
 ---
 
