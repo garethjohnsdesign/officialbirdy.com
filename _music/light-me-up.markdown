@@ -1,7 +1,7 @@
 ---
 title: Light Me Up
 date: 2016-02-10 18:34:00 Z
-position: 3
+position: 4
 cover: "/uploads/light-me-up-1.jpg"
 itunes: https://itunes.apple.com/gb/album/light-me-up/id673277385?i=673277686
 amazon: 
