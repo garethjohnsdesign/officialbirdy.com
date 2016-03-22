@@ -719,16 +719,270 @@ tracks:
     Let’s be numb together
 - name: Beating Heart
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    There’s a beating in your heart\
+    That takes you everywhere\
+    Will take you anywhere
+
+    You’ve been reaching in the dark\
+    Like there’s no one there\
+    You think there’s no one there
+
+    You’ve been trying too hard\
+    Trying to start\
+    It takes time don’t lose yourself\
+    Don’t keep fighting your heart\
+    Stay as you are\
+    Don’t change for anyone else
+
+    Say it strong\
+    Lay it all on me\
+    You don’t have to be\
+    Afraid of what you think you’re not\
+    You’ll see\
+    Say it wrong\
+    Let the words run free\
+    I know what you mean\
+    And you’ll find someone who loves you\
+    Just as much as me
+
+    There’s a beating in your heart\
+    That takes you everywhere\
+    Can take you anywhere
+
+    You’re afraid of coming last\
+    You see it everywhere\
+    You think you’ll never get there
+
+    You’ve been trying too hard\
+    Trying to start\
+    It takes time don’t lose yourself\
+    Don’t keep fighting your heart\
+    Stay as you are\
+    Don’t change for anyone else
+
+    Say it strong\
+    Lay it all on me\
+    You don’t have to be\
+    Afraid of what you think you’re not\
+    You’ll see\
+    Say it wrong\
+    Let the words run free\
+    I know what you mean\
+    And you’ll find someone who loves you\
+    Just as much as me
+
+    Lay your head on my knees\
+    You can confide in me\
+    Close your eyes and be free
+
+    Say it strong\
+    Lay it all on me\
+    You don’t have to be\
+    Afraid of what you think you’re not\
+    You’ll see\
+    Say it wrong\
+    Let the words run free\
+    I know what you mean\
+    And you’ll find someone who loves you\
+    Just as much as me
 - name: Winter
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    It’s so cold, baby it’s dark outside\
+    Winter comes creeping in through the night\
+    And it’s hard when I just want to hold you tight\
+    Breaks my heart but nothing can break this ice
+
+    Hold on, hold on, Baby just be strong
+
+    And I will be honest and let you go\
+    This is the reason and you should know\
+    Through all that you promise I can see\
+    None of your dreams ever have time for me\
+    So this is the reason I let you go\
+    I will be honest and you should know\
+    Through all that you promise, I can see\
+    None of your dreams ever have time for me
+
+    And it’s so quiet, baby it’s hard to breathe\
+    Black as ink, the silence is deafening\
+    And it’s so hard to look into distant eyes\
+    and feel your heart slowly tie away from mine
+
+    So long, so long, baby you’re long gone
+
+    And I will be honest and let you go\
+    This is the reason and you should know\
+    Through all that you promise I can see\
+    None of your dreams ever have time for me\
+    So this is the reason I let you go\
+    I will be honest and you should know\
+    Through all that you promise, I can see\
+    None of your dreams ever have time for me
+
+    None of your dreams\
+    Take me with you\
+    None of your dreams\
+    Let me love you\
+    None of your dreams\
+    Take me with you\
+    Take me with you
+
+    None of your dreams\
+    Take me with you\
+    None of your dreams\
+    Let me love you\
+    None of your dreams\
+    Take me with you\
+    Take me with you
+
+    **Repeat**
+
+    None of your dreams\
+    Take me with you
 - name: Give Up
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    I find myself\
+    In these four walls\
+    Wishing for somewhere else\
+    I’ve lost myself\
+    Like this before\
+    Calling out for your help
+
+    All the times I won’t believe\
+    Yours’ll be the voice that is on my shoulder\
+    All the things you’ve said to me\
+    Written on my heart every word you’ve spoken
+
+    I know you, you’ll never\
+    Give up on me\
+    Give up on me\
+    Even when, I let you\
+    Give up on me\
+    Give up on me\
+    Oh,\
+    When I’m out of place\
+    And I’m losing faith\
+    You’re the one that never lets me run\
+    You’ll never, give up on me\
+    Give up on me\
+    Give up on me
+
+    Inside my head\
+    I’ve been at war\
+    Trying to find some peace\
+    If you can see\
+    An open door\
+    Teach me how to be free
+
+    All the times I won’t believe\
+    Yours’ll be the voice that is on my shoulder\
+    All the things you’ve said to me\
+    Written on my heart every word you’ve spoken
+
+    I know you, you’ll never
+
+    Give up on me\
+    Give up on me\
+    Even when, I let you\
+    Give up on me\
+    Give up on me\
+    Oh,\
+    When I’m out of place\
+    And I’m losing faith\
+    You’re the one that never lets me run\
+    You’ll never, give up on me\
+    Give up on me\
+    Give up on me
+
+    Till you get here\
+    I’ll be holding on, holding on\
+    You always know the words\
+    To make me strong, make me strong
+
+    I know you, you’ll never\
+    Give up on me\
+    Give up on me\
+    Even when, I let you\
+    Give up on me\
+    Give up on me\
+    Oh,\
+    When I’m out of place\
+    And I’m losing faith\
+    You’re the one that never lets me run\
+    You’ll never, give up on me
+
+    I know you, you’ll never\
+    Give up on me\
+    Give up on me\
+    Even when, I let you\
+    Give up on me\
+    Give up on me\
+    Oh,\
+    When I’m out of place\
+    And I’m losing faith\
+    You’re the one that never lets me run\
+    You’ll never, give up on me\
+    Give up on me\
+    Give up on me
 - name: Start Again
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    Tidal wave, tidal wave\
+    Take it all, take it all\
+    And I don’t care anymore
+
+    You can lie, all you like\
+    All it’s done is make me fight\
+    And shake the truth inside my soul
+
+    I’m tired, pretending\
+    Keep my beliefs suspended\
+    Coz underneath
+
+    I’m starting to wake from silent sleep\
+    I’m starting to break and I can grieve\
+    I’m starting to see that I know how\
+    To love, to lose, to work it out\
+    I’m starting to heal and find some faith\
+    I’m starting to feel what’s out of place\
+    Don’t need you to save me I can’t wait\
+    To fall, to fade and start again
+
+    Hurricane, hurricane\
+    Take it all, take it all\
+    Spin me round and back again
+
+    You can talk, you can talk\
+    All it’s done is start a war\
+    With nothing really to defend
+
+    I’m tired, pretending\
+    Keep my beliefs suspended\
+    Coz underneath
+
+    I’m starting to wake from silent sleep\
+    I’m starting to break and I can grieve\
+    I’m starting to see that I know how\
+    To love, to lose, to work it out\
+    I’m starting to heal and find some faith\
+    I’m starting to feel what’s out of place\
+    Don’t need you to save me I can’t wait\
+    To fall, to fade and start again
+
+    To start again\
+    To start again
+
+    I’m starting to wake from silent sleep\
+    I’m starting to break and I can grieve\
+    I’m starting to see that I know how\
+    To love, to lose, to work it out\
+    I’m starting to heal and find some faith\
+    I’m starting to feel what’s out of place\
+    Don’t need you to save me I can’t wait\
+    To fall, to fade and start again
 layout: music
 ---
 
