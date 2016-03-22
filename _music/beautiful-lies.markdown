@@ -158,7 +158,73 @@ tracks:
     That we’re not falling into the deep end
 - name: Wild Horses
   watch: tCP6sXi33JE
-  lyrics_md: 
+  lyrics_md: |-
+    I’m a dreamer\
+    But it’s hard to sleep\
+    When your head’s not in it\
+    I’ve been restless\
+    Coz you disappeared\
+    And there’s something missing
+
+    The earth is loose\
+    Under my shoes
+
+    There’s an angel\
+    And he’s shaped like you\
+    And I thought I knew him\
+    There’s a window\
+    And it’s dark inside\
+    where the light was in it
+
+    This can’t be love\
+    If it hurts so much\
+    I need to let go
+
+    I will survive\
+    And be the one who’s stronger\
+    I will not beg you to stay\
+    I will move on\
+    And you should know I mean it\
+    Wild horses run in me
+
+    I remember\
+    How we danced so close\
+    I would stand on your feet\
+    And the phone calls\
+    That would last all night\
+    They were life boats to me
+
+    Our fading scars\
+    Just shooting stars\
+    They’re here then gone
+
+    I will survive\
+    And be the one who’s stronger\
+    I will not beg you to stay\
+    I will move on\
+    And you should know I mean it\
+    Wild horses run in me
+
+    Our human hearts\
+    Forget how strong they are\
+    And they get lost along the way\
+    It’s not giving up\
+    It’s letting go\
+    And moving to a better place\
+    I will survive
+
+    And be the one who’s stronger\
+    I will not beg you to stay\
+    I will move on\
+    And you should know I mean it\
+    Wild horses run in me
+
+    I will survive\
+    And be the one who’s stronger\
+    I will not beg you to stay\
+    I will move on\
+    And you should know I mean it\
+    Wild horses run in me
 - name: Lost It All
   watch: 
   lyrics_md: 
