@@ -12,15 +12,16 @@
 		<div class="columns text-center">	
 		<img src="{{page.cover}}">
 		<h5 class="music-title">{{page.title}}</h5>
-		<p>Testing Top</p>
+
 		
-		{% for track in work.tracks %}
-		<li>{{ track.title }} ({{ track.duration }})</li>
-		{% endfor %}
-		
-		
-		
-		<p>Testing Bottom</p>
+		<ul>{% for track in page.tracks %}
+  <li>{{ track.name }}: {{ track.arbitrary }}{% if track.nested-products %}
+    <ul>
+    {% for trackproduct in track.nested-products %}  <li>{{ nestedtrack.nested }}: {{ nestedtrack.sub-arbitrary }}</li>
+    {% endfor %}</ul>
+  {% endif %}</li>{% endfor %}
+</ul>
+
 		{% if {{page['itunes']}} %}
 		<a href="{{page['itunes']}}" target="_blank">iTunes</a> /
 		{% endif %}
