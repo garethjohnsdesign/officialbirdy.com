@@ -666,7 +666,57 @@ tracks:
   lyrics_md: 
 - name: Beautiful Lies
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    Beautiful Lies\
+    Cover my eyes with your hands\
+    Just pretend we’re better\
+    Turn out the light\
+    There are no more surprises to come\
+    Let’s be numb together
+
+    The world’s so fast\
+    That nothing lasts\
+    Let’s save it while we can
+
+    Coz I want to be forever\
+    Like smoke in the air\
+    Float like a feather, going nowhere
+
+    Lost in the silence\
+    I don’t need to be free\
+    Kill me with kindness and please
+
+    Tell me beautiful lies\
+    I wish that I had the strength to let go\
+    But I don’t\
+    I’m paralysed\
+    I see the child in your eyes\
+    And I'm stuck in the headlights
+
+    I know too well\
+    That time will tell\
+    It’s easy to forget
+
+    Coz I want to be forever\
+    Like smoke in the air\
+    Float like a feather, going nowhere
+
+    Lost in the silence\
+    I don’t need to be free\
+    Kill me with kindness and please,
+
+    Oh well I’ve tried to be open\
+    But I’ve found it’s hard when you’re broken\
+    And in the heat of the moment we’re free
+
+    So please, please, please
+
+    Tell me beautiful lies\
+    Cover my eyes with your hands\
+    Just pretend we’re better\
+    Turn out the light\
+    There are no more surprises to come\
+    Let’s be numb together
 - name: Beating Heart
   watch: 
   lyrics_md: 
