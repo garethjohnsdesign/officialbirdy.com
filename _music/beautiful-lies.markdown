@@ -1,6 +1,7 @@
 ---
 title: Beautiful Lies
 date: 2016-03-11 14:30:00 Z
+position: 1
 cover: "/uploads/beautiful-lies.jpg"
 itunes: http://smarturl.it/beautifullies.itunes
 amazon: http://smarturl.it/beautifullies.AM

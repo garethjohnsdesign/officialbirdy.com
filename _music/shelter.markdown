@@ -1,6 +1,7 @@
 ---
 title: Shelter
 date: 2016-02-10 18:24:00 Z
+position: 0
 cover: "/uploads/shelter-1.jpg"
 itunes: https://itunes.apple.com/gb/album/birdy/id470939123
 amazon: 
