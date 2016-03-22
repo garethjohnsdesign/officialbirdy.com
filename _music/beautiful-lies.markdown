@@ -95,11 +95,7 @@ tracks:
     I’m your shadow
 - name: Keeping Your Head Up
   watch: m8AXUq5uA0Y
-  lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit
-    libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl
-    consectetur et. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia
-    bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla
-    vitae elit libero, a pharetra augue.
+  lyrics_md: 
 - name: Deep End
   watch: Value
   lyrics_md: |-
