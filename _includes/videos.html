@@ -20,7 +20,8 @@
 				
 			<!-- Loop -->
 		<div class="cell">
-		{% for videos in site.videos limit:2 %}
+		{% assign video_documents = site.videos | sort:"position" %}
+		{% for videos in video_documents limit:2 %}
 <div class="row expanded align-middle video" style="background-image: url('{{videos.image}}')">
 	<div class="small-12 columns">		  
 		<div class="row expanded align-center text-center">
@@ -35,7 +36,7 @@
 		</div>
 		
 		<div class="cell">
-		{% for videos in site.videos limit:2 offset:2 %}
+		{% for videos in video_documents limit:2 offset:2 %}
 <div class="row expanded align-middle video" style="background-image: url('{{videos.image}}')">
 	<div class="small-12 columns">		  
 		<div class="row expanded align-center text-center">
@@ -50,7 +51,7 @@
 		</div>
 		
 		<div class="cell">
-		{% for videos in site.videos limit:2 offset:4 %}
+		{% for videos in video_documents limit:2 offset:4 %}
 <div class="row expanded align-middle video" style="background-image: url('{{videos.image}}')">
 	<div class="small-12 columns">		  
 		<div class="row expanded align-center text-center">
@@ -65,7 +66,7 @@
 		</div>
 		
 		<div class="cell">
-		{% for videos in site.videos limit:2 offset:6 %}
+		{% for videos in video_documents limit:2 offset:6 %}
 <div class="row expanded align-middle video" style="background-image: url('{{videos.image}}')">
 	<div class="small-12 columns">		  
 		<div class="row expanded align-center text-center">

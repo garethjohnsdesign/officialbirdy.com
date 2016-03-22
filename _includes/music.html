@@ -16,7 +16,8 @@
 		<div class="small-12 columns">
 			<div class="owl-carousel music-carousel">
 			<!-- Loop -->
-			{% for music in site.music %}
+			{% assign music_documents = site.music | sort:"position" %}
+			{% for music in music_documents %}
 			<div class="row align-center">
 				<div class="small-12 columns text-center">	
 				<a href="{{music.url }}"><img class="cover" src="{{music.cover}}"></a>
