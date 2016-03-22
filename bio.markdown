@@ -1,6 +1,7 @@
 ---
 title: Bio
 date: 2016-03-22 13:44:00 Z
+layout: bio
 ---
 
 Since bewitching the nation at the age of 14 with her cover of Bon Iver’s “Skinny Love,” Birdy has had to do a lot of growing up. While her contemporaries have lived leisurely, teenage lives - studying, shopping, socialising - this extraordinarily talented 19-year-old has released two albums, toured the world, performed at the Paralympics Opening Ceremony, been nominated for a Brit Award (for British Female Solo Artist), written songs for the hit movies The Fault in Our Stars and The Hunger Games, and sung on Mumford & Sons’ Grammy-winning song “Learn Me Right” (part of the soundtrack for the Pixar animation, Brave). A long list of international accolades include, Best International Female (Echo Awards, Germany 2013) and Best International Female (Principales, Spain 2014) and many more. She has accumulated over 413 million views on Youtube and sold over 10.5 millions records worldwide to date. 
