@@ -330,7 +330,81 @@ tracks:
     Through oceans dark
 - name: Lifted
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    Bound to this lonely road\
+    You gave me hope\
+    Gave me hope\
+    Woke my drifting soul\
+    And led me home\
+    Led me home
+
+    Won’t you just stay here\
+    Chase away my fears\
+    Solve my mysteries
+
+    Won’t you just stay here\
+    Chase away my fears\
+    Set my spirit free
+
+    Wont you lead the way\
+    Through my darker days\
+    Keep them softly spoken\
+    Show me the way\
+    To a brighter place\
+    Keep my eyes from closing\
+    Oo,\
+    Lifted away from my demons\
+    Eh yeah eh yeah, eh yeah eh yeah\
+    Oo,\
+    Lifted away from my secrets\
+    Eh yeah eh yeah, eh yeah eh yeah
+
+    Oh my heavy bones\
+    They weigh me down\
+    Weigh me down\
+    Held by a single thread\
+    When you are gone\
+    When you’re gone
+
+    Won’t you just stay here\
+    Chase away my fears\
+    Solve my mysteries
+
+    Wont you lead the way\
+    Through my darker days\
+    Keep them softly spoken\
+    Show me the way\
+    To a brighter place\
+    Keep my eyes from closing\
+    Oo,\
+    Lifted away from my demons\
+    Eh yeah eh yeah, eh yeah eh yeah\
+    Oo,\
+    Lifted away from my secrets\
+    Eh yeah eh yeah, eh yeah eh yeah
+
+    And if you start to fade\
+    I will keep you safe\
+    Like you do
+
+    And if you feel feel afraid\
+    I wil keep your faith\
+    Like you do
+
+    Wont you lead the way\
+    Through my darker days\
+    Keep them softly spoken\
+    Show me the way\
+    To a brighter place\
+    Keep my eyes from closing\
+    Oo,\
+    Lifted away from my demons\
+    Eh yeah eh yeah, eh yeah eh yeah\
+    Oo,\
+    Lifted away from my secrets\
+    Eh yeah eh yeah, eh yeah eh yeah
+
+    Eh yeah eh yeah, eh yeah eh yeah
 - name: Take My Heart
   watch: 
   lyrics_md: 
