@@ -1,6 +1,6 @@
 ---
 title: People Help the People
-date: 2016-02-10 18:24:00 Z
+date: 2011-10-28 18:24:00 Z
 position: 9
 cover: "/uploads/people-help-the-people-1.jpg"
 itunes: https://itunes.apple.com/gb/album/people-help-the-people-ep/id473981658
