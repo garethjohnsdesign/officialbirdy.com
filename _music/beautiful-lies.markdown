@@ -472,7 +472,77 @@ tracks:
     Take my heart
 - name: Hear You Calling
   watch: 
-  lyrics_md: 
+  lyrics_md: |-
+    Some mistakes\
+    Are harder to recover from\
+    And I miss the days\
+    I could take my make up and put a brave face on
+
+    Oh my beautiful summer\
+    How the winter makes me wonder\
+    Where you’ve gone
+
+    Oh my beautiful summer\
+    How the winter makes me wonder\
+    Where you’ve gone
+
+    Every night when the sun goes down\
+    And I’m left in this lonely town\
+    I hear you calling me\
+    Hear you calling me\
+    Every time that I say goodbye\
+    Every night when I close my eyes\
+    I hear you calling me\
+    Hear you calling me
+
+    Memories lie\
+    There’s no such thing as a perfect life\
+    Oh and I let it die\
+    But looking back I can’t remember why
+
+    Oh my beautiful summer\
+    How the winter makes me wonder\
+    Where you’ve gone
+
+    Oh my beautiful lover\
+    We were perfect for each other\
+    I was wrong
+
+    Every night when the sun goes down\
+    And I’m left in this lonely town\
+    I hear you calling me\
+    Hear you calling me\
+    Every time that I say goodbye\
+    Every night when I close my eyes\
+    I hear you calling me\
+    Hear you calling me
+
+    Take me home, take me home\
+    Don’t know this place\
+    Are you there wondering if I’m lying awake\
+    Thinking of you?
+
+    Take me home, take me home\
+    Don’t know this place\
+    Are you there wondering if I’m lying awake\
+    Thinking of you?
+
+    Oh my beautiful summer\
+    How the winter makes me wonder\
+    Where you’ve gone
+
+    Every night when the sun goes down\
+    And I’m left in this lonely town\
+    I hear you calling me\
+    Hear you calling me\
+    Every time that I say goodbye\
+    Every night when I close my eyes\
+    I hear you calling me\
+    Hear you calling me
+
+    I hear you calling\
+    I hear you calling\
+    Me, me
 - name: Words
   watch: 
   lyrics_md: 
