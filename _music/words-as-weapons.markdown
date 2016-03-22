@@ -8,6 +8,8 @@ amazon:
 google: 
 stream: https://open.spotify.com/track/2xYtuB16vJd4bMMHoku26H
 layout: music
+tracks:
+- name: Words As Weapons
+  watch: 
+  lyrics_md:
 ---
-
-1. Words As Weapons

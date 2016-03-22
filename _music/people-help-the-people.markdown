@@ -8,7 +8,11 @@ amazon:
 google: 
 stream: https://play.spotify.com/album/3ajUIQ9PMEaSCpsYkMpxvu
 layout: music
+tracks:
+- name: People Help the People  
+  watch: 
+  lyrics_md:
+- name: Four Eyes 
+  watch: 
+  lyrics_md:
 ---
-
-1. People Help the People  
-1. Four Eyes

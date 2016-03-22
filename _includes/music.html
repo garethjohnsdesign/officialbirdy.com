@@ -27,7 +27,9 @@
 					<li>
 						<a href="#">Tracklist</a>
 						<ul class="menu vertical nested">
-							<li>{{music.content}}</li>
+						{% for track in music.tracks %}
+							<li>{{track.name}}</li>
+						{% endfor %}
 						</ul>
 					</li>
 					<li>

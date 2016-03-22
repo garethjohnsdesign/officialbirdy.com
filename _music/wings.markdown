@@ -8,6 +8,8 @@ amazon:
 google: 
 stream: https://open.spotify.com/album/0zKFZC6ieoYGW8IRvRWmoh
 layout: music
+tracks:
+- name: Wings
+  watch: 
+  lyrics_md:
 ---
-
-1. Wings

@@ -8,6 +8,8 @@ amazon:
 google: 
 stream: https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0
 layout: music
+tracks:
+- name: Skinny Love
+  watch: 
+  lyrics_md:
 ---
-
-1. Skinny Love
