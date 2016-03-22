@@ -35,6 +35,48 @@ tracks:
     consectetur et. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia
     bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla
     vitae elit libero, a pharetra augue.
+- name: Wild Horses
+  watch: 
+  lyrics_md: 
+- name: Lost It All
+  watch: 
+  lyrics_md: 
+- name: Silhouette
+  watch: 
+  lyrics_md: 
+- name: Lifted
+  watch: 
+  lyrics_md: 
+- name: Take My Heart
+  watch: 
+  lyrics_md: 
+- name: Hear You Calling
+  watch: 
+  lyrics_md: 
+- name: Words
+  watch: 
+  lyrics_md: 
+- name: Save Yourself
+  watch: 
+  lyrics_md: 
+- name: Unbroken
+  watch: 
+  lyrics_md: 
+- name: Beautiful Lies
+  watch: 
+  lyrics_md: 
+- name: Beating Heart
+  watch: 
+  lyrics_md: 
+- name: Winter
+  watch: 
+  lyrics_md: 
+- name: Give Up
+  watch: 
+  lyrics_md: 
+- name: Start Again
+  watch: 
+  lyrics_md: 
 layout: music
 ---
 
