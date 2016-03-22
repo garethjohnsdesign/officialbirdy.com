@@ -10,7 +10,8 @@
 <!-- Content -->	
 <div class="row small-up-1 medium-up-1 large-up-2">
 <!-- Loop -->
-{% for videos in site.videos %}
+{% assign video_documents = site.videos | sort:"position" %}
+{% for videos in video_documents %}
 <div class="columns text-center">	
 <div class="row align-middle video" style="background-image: url('{{videos.image}}')">
 <div class="small-12 columns">		  
