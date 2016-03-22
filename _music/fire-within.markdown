@@ -1,6 +1,6 @@
 ---
 title: Fire Within
-date: 2016-02-10 18:32:00 Z
+date: 2013-09-16 18:32:00 Z
 position: 4
 cover: "/uploads/fire-within.jpg"
 itunes: https://itunes.apple.com/gb/album/fire-within-deluxe-version/id673277385
