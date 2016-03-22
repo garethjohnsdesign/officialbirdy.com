@@ -40,59 +40,19 @@ tracks:
     \ "
 - name: Shadow
   watch: 
-  lyrics_md: |-
-    Woke up to the music of your heart  \
-    Saying aaaaah, aaaaah  \
-    Caught up in the wishing that it lasts  \
-    Saying aaaaah, aaaaah
-
-    Only you ever make me scared  \
-    Coz only you can take me there
-
-    So wherever you go  \
-    I’m your shadow  \
-    Desert to ice flow  \
-    I will follow  \
-    Wherever you go  \
-    I’m your shadow  \
-    I’m your shadow
-
-    There beneath your body when it wakes  \
-    Saying aaaaah, aaaaah  \
-    Hiding under every step you take  \
-    Saying aaaaah, aaaaah
-
-    Only you ever make me care  \
-    Coz only you ever made me dare
-
-    So wherever you go  \
-    I’m your shadow  \
-    Desert to ice flow  \
-    I will follow  \
-    Wherever you go  \
-    I’m your shadow  \
-    I’m your shadow  \
-    I’m your shadow
-
-    I know, I know, I know  \
-    Everywhere you move  \
-    You stay, you go, you change  \
-    I am bound to you
-
-    So wherever you go  \
-    I’m your shadow  \
-    Desert to ice flow  \
-    I will follow  \
-    Wherever you go  \
-    I’m your shadow
-
-    So wherever you go  \
-    I’m your shadow  \
-    Desert to ice flow  \
-    I will follow  \
-    Wherever you go  \
-    I’m your shadow  \
-    I’m your shadow
+  lyrics_md: "Woke up to the music of your heart  \nSaying aaaaah, aaaaah  \nCaught
+    up in the wishing that it lasts  \nSaying aaaaah, aaaaah\n\nOnly you ever make
+    me scared  \nCoz only you can take me there\n\nSo wherever you go  \nI’m your
+    shadow  \nDesert to ice flow  \nI will follow  \nWherever you go  \nI’m your shadow
+    \ \nI’m your shadow\n\nThere beneath your body when it wakes  \nSaying aaaaah,
+    aaaaah  \nHiding under every step you take  \nSaying aaaaah, aaaaah\n\nOnly you
+    ever make me care  \nCoz only you ever made me dare\n\nSo wherever you go  \nI’m
+    your shadow  \nDesert to ice flow  \nI will follow  \nWherever you go  \nI’m your
+    shadow  \nI’m your shadow  \nI’m your shadow\n\nI know, I know, I know  \nEverywhere
+    you move  \nYou stay, you go, you change  \nI am bound to you\n\nSo wherever you
+    go  \nI’m your shadow  \nDesert to ice flow  \nI will follow  \nWherever you go
+    \ \nI’m your shadow\n\nSo wherever you go  \nI’m your shadow  \nDesert to ice
+    flow  \nI will follow  \nWherever you go  \nI’m your shadow  \nI’m your shadow"
 - name: Keeping Your Head Up
   watch: m8AXUq5uA0Y
   lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit
