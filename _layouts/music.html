@@ -12,7 +12,15 @@
 		<div class="columns text-center">	
 		<img src="{{page.cover}}">
 		<h5 class="music-title">{{page.title}}</h5>
-		<p>{{content}}</p>
+		<p>Testing Top</p>
+		
+		{% for track in work.tracks %}
+		<li>{{ track.title }} ({{ track.duration }})</li>
+		{% endfor %}
+		
+		
+		
+		<p>Testing Bottom</p>
 		{% if {{page['itunes']}} %}
 		<a href="{{page['itunes']}}" target="_blank">iTunes</a> /
 		{% endif %}
