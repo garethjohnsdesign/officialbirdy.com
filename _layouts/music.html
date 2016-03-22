@@ -23,9 +23,15 @@
 		{{ track.name }}
 		</div>
 		<div class="small-12 medium-6 columns">
-		{% if track.watch %}<span class="label music-label">Watch</span>{% endif %}
-		{% if track.lyrics_md %}<span class="label music-label">Lyrics</span>{% endif %}
-		{% if track.buy %}<span class="label music-label">Buy</span>{% endif %} 
+		{% if track.watch %}<span class="music-label"><a href="//www.youtube.com/watch?v={{track.watch}}" data-lity>Watch</a></span>{% endif %}
+		{% if track.lyrics_md %}<span class="music-label"><a href="#{{ track.name | replace: ' ', '-' | downcase}}" data-lity>Lyrics</a></span>{% endif %}
+		{% if track.buy %}<span class="music-label">Buy</span>{% endif %}
+		{% if track.lyrics_md %}
+		<div id="{{ track.name | replace: ' ', '-' | downcase}}" class="lity-hide">
+		{{ track.lyrics_md }}
+		</div>
+		{% endif %}
+		
 		</div>
 		</div>
 		</li>
