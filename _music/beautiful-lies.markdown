@@ -40,11 +40,59 @@ tracks:
     \ "
 - name: Shadow
   watch: 
-  lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit
-    libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl
-    consectetur et. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia
-    bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Nulla
-    vitae elit libero, a pharetra augue.
+  lyrics_md: |-
+    Woke up to the music of your heart  \
+    Saying aaaaah, aaaaah  \
+    Caught up in the wishing that it lasts  \
+    Saying aaaaah, aaaaah
+
+    Only you ever make me scared  \
+    Coz only you can take me there
+
+    So wherever you go  \
+    I’m your shadow  \
+    Desert to ice flow  \
+    I will follow  \
+    Wherever you go  \
+    I’m your shadow  \
+    I’m your shadow
+
+    There beneath your body when it wakes  \
+    Saying aaaaah, aaaaah  \
+    Hiding under every step you take  \
+    Saying aaaaah, aaaaah
+
+    Only you ever make me care  \
+    Coz only you ever made me dare
+
+    So wherever you go  \
+    I’m your shadow  \
+    Desert to ice flow  \
+    I will follow  \
+    Wherever you go  \
+    I’m your shadow  \
+    I’m your shadow  \
+    I’m your shadow
+
+    I know, I know, I know  \
+    Everywhere you move  \
+    You stay, you go, you change  \
+    I am bound to you
+
+    So wherever you go  \
+    I’m your shadow  \
+    Desert to ice flow  \
+    I will follow  \
+    Wherever you go  \
+    I’m your shadow
+
+    So wherever you go  \
+    I’m your shadow  \
+    Desert to ice flow  \
+    I will follow  \
+    Wherever you go  \
+    I’m your shadow  \
+    I’m your shadow
 - name: Keeping Your Head Up
   watch: m8AXUq5uA0Y
   lyrics_md: Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit
