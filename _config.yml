@@ -30,7 +30,7 @@ defaults:
     type: pages
   values:
     layout: page
-analytics: 
+analytics: UA-75589201-1
 typekit: 
 description: The New Album Now featuring the new single Keeping Your Head Up
 domain: http://officialbirdy.com/
