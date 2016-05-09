@@ -1,6 +1,7 @@
 ---
 title: Birdy
 date: 2016-02-06 22:34:00 Z
+position: 1
 header: Beautiful Lies
 subheader: The New Album Out Now
 itunes: http://smarturl.it/BeautifulLies.iTunes
