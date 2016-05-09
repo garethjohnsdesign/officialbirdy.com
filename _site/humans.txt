@@ -11,4 +11,4 @@
 
 # TECHNOLOGY COLOPHON
 
-  HTML5, CSS3, Siteleaf, Foundation, Codekit
+  HTML5, CSS3, Siteleaf, Foundation, Codekit 2

@@ -551,6 +551,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/meta\/meta-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159656,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/meta\/meta-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/meta\/meta-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
