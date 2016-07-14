@@ -44,18 +44,17 @@ $('#country').countrySelect();
 //Instagram
 
 // Init
-$(document).ready(function() {
+
 var feed = new Instafeed({
 	target: 'instafeed',
     get: 'user',
     userId: 476346188,
-    accessToken: '476346188.1677ed0.af0567d32036459fb38a1e0108b89eb2',
+    accessToken: '476346188.1677ed0.5e02bdd9f46647938e909282cd4c7ddd',
     template: '<div class="small-6 medium-4 large-3 columns"><a href="{{image}}" data-lity><img src="{{image}}" /><div class="insta_caption">{{caption}}</div></a></div>',
     limit: 8,
     resolution: 'standard_resolution'
 });
 feed.run();
-});
 
 // Menu
 

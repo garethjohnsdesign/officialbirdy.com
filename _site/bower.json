@@ -9,7 +9,7 @@
   "license": "MIT",
   "homepage": "http://foundation.zurb.com",
   "dependencies": {
-    "foundation-sites": "~6.2.0",
+    "foundation-sites": "^6.2.3",
     "motion-ui": "~1.2.2",
     "wow": "^1.1.2",
     "owl.carousel": "OwlCarousel2#^2.0.0-beta.3",
@@ -22,5 +22,8 @@
     "test",
     "tests"
   ],
-  "private": true
+  "private": true,
+  "resolutions": {
+    "what-input": "~2.0.0"
+  }
 }
