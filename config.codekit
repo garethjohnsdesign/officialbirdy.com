@@ -551,6 +551,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/meta\/meta-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159656,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/meta\/meta-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/meta\/meta-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -5076,6 +5087,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/meta\/meta-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159656,
+		"inputAbbreviatedPath": "\/assets\/img\/meta\/meta-image.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/meta\/meta-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -5522,7 +5544,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 159656,
+		"initialSize": 42278,
 		"inputAbbreviatedPath": "\/assets\/videos\/birdy.jpg",
 		"outputAbbreviatedPath": "\/assets\/videos\/birdy.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -5698,7 +5720,7 @@
 		},
 	"\/bower_components\/foundation-sites\/dist\/foundation.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/foundation.js",
 		"outputAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/min\/foundation-min.js",
@@ -9786,7 +9808,7 @@
 		},
 	"\/bower_components\/what-input\/what-input.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/bower_components\/what-input\/what-input.js",
 		"outputAbbreviatedPath": "\/bower_components\/what-input\/min\/what-input-min.js",
@@ -10078,38 +10100,26 @@
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/what-input.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/instafeed.js\/instafeed.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/foundation.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/country.js",
 			"position": 4,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/instafeed.js\/instafeed.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/owl.carousel.js",
 			"position": 5,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/country.js",
-			"position": 6,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/owl.carousel.js",
-			"position": 7,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/assets\/js\/lity.js",
-			"position": 8,
+			"position": 6,
 			"type": 0
 			}
 		]
