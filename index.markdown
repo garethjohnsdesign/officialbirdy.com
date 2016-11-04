@@ -5,10 +5,10 @@ position: 0
 header: Find Me
 subheader: The new song from Sigma feat. Birdy
 itunes: http://po.st/FindMeITunes
-apple:
+apple: 
 spotify: http://po.st/FindMeSpotify
-amazon:
-google:
+amazon: 
+google: 
 layout: home
 ---
 
