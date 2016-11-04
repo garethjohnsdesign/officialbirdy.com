@@ -345,6 +345,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/find-me-feature.jpg": {
+		"ft": 16384,
+		"iS": 89785,
+		"oA": 0,
+		"oAP": "\/_uploads\/find-me-feature.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/find-me.jpg": {
+		"ft": 16384,
+		"iS": 20871,
+		"oA": 0,
+		"oAP": "\/_uploads\/find-me.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/fire-within.jpg": {
 		"ft": 16384,
 		"iS": 80409,
@@ -541,6 +557,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_videos\/1901.markdown",
+		"oF": 0
+		},
+	"\/_videos\/find-me.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_videos\/find-me.markdown",
 		"oF": 0
 		},
 	"\/_videos\/keeping-your-head-up.markdown": {
@@ -1333,7 +1355,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/videos\/birdy.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/assets\/videos\/birdy.mp4": {
 		"ft": 8192,

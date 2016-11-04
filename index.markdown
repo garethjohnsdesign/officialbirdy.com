@@ -2,13 +2,13 @@
 title: Birdy
 date: 2016-02-06 22:34:00 Z
 position: 0
-header: Sigma ft. Birdy – Find Me
-subheader: The New Single Out Now
-itunes: http://smarturl.it/BeautifulLies.iTunes
-apple: http://smarturl.it/BeautifulLies.AP
-spotify: http://smarturl.it/BeautifulLies.SP
-amazon: http://smarturl.it/BeautifulLies.AM
-google: http://smarturl.it/BeautifulLies.GP
+header: Find Me
+subheader: The new song from Sigma feat. Birdy
+itunes: http://po.st/FindMeITunes
+apple:
+spotify: http://po.st/FindMeSpotify
+amazon:
+google:
 layout: home
 ---
 
