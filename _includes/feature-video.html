@@ -1,0 +1,14 @@
+{% for videos in site.featured-videos %}
+<!-- Feature Video -->			  
+<section class="row expanded align-middle wow fadeIn" id="feature-video" style="background-image: url('{{videos.feature}}')">
+<div class="small-12 columns">		  
+		  <div class="row expanded align-center text-center">
+			  <div class="small-12 medium-12 columns">
+			    <h2><a href="//www.youtube.com/watch?v={{videos.video}}" data-lity>{{videos.title}}</a></h2>
+				<a href="//www.youtube.com/watch?v={{videos.video}}" data-lity><button class="hollow button">Play Video</button></a>
+		      </div>
+		  </div>
+</div>
+</section>
+<!-- End Feature Video -->
+{% endfor %}

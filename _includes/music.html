@@ -1,0 +1,71 @@
+<!-- Music -->
+<section class="section wow fadeIn" id="music">
+	  	<div class="row align-center">
+		  <div class="small-12 columns text-center">  	  
+	
+	<!-- Title -->	 
+	<div class="row section-title">
+		<div class="small-12 columns text-center">
+			<h3>Music</h3> 
+		</div>
+	</div>
+	<!-- End Title -->
+	
+	<!-- Content -->	
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="owl-carousel music-carousel">
+			<!-- Loop -->
+			{% assign music_documents = site.music | sort:"position" %}
+			{% for music in music_documents %}
+			<div class="row align-center">
+				<div class="small-12 columns text-center">	
+				<a href="{{music.url }}"><img class="cover" src="{{music.cover}}"></a>
+				<h5 class="music-title"><a href="{{ post.url }}">{{music.title}}</a></h5>
+				
+				<ul class="vertical menu" id="music-meta" data-accordion-menu>
+					<li>
+						<a href="#">Tracklist</a>
+						<ul class="menu vertical nested">
+						{% for track in music.tracks %}
+							<li>{{track.name}}</li>
+						{% endfor %}
+						</ul>
+					</li>
+					<li>
+						<a href="#">Buy</a>
+						<ul class="menu vertical nested">
+							{% if {{music.itunes}} %}
+							<li><a href="{{music.itunes}}" target="_blank">iTunes</a></li>
+							{% endif %}
+							{% if {{music.amazon}} %}
+							<li><a href="{{music.amazon}}" target="_blank">Amazon</a></li>
+							{% endif %}
+							{% if {{music.google}} %}
+							<li><a href="{{music.google}}" target="_blank">Google</a></li>
+							{% endif %}
+						</ul>
+					</li>
+					{% if {{music.stream}} %}
+					<li>
+						<a href="#">Stream</a>
+						<ul class="menu vertical nested">
+							<li><a href="{{music.stream}}" target="_blank">Spotify</a></li>
+						</ul>
+					</li>
+					{% endif %}
+				</ul>
+				
+				</div>
+			</div>
+			{% endfor %}
+			<!-- End Loop -->
+			</div>
+		</div>
+	</div>
+	<!-- Content -->
+			  
+		</div>	  
+	</div>
+</section>
+<!-- End Music -->

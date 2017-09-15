@@ -1,0 +1,28 @@
+// Video
+
+.container {
+  position: relative;
+}
+
+.video-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#video-box:hover {
+  opacity:0.7;
+  color:red;
+}
+
+.video {
+  height: 20rem;
+  margin: 1rem;
+  background-size: cover;
+}
+
+.video-index {
+  height: 20rem;
+  margin: 1rem;
+  background-size: cover;
+}

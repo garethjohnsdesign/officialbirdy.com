@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+<!-- Content -->	
+<div class="row small-up-1 medium-up-2 large-up-3">
+
+	<!-- Loop -->
+	{% assign music_documents = site.music | sort:"position" %}
+	{% for music in music_documents %}
+		<div class="columns text-center music-index">	
+		<a href="{{ music.url }}"><img src="{{music.cover}}" class="cover"></a>		
+		</div>
+	{% endfor %}
+	<!-- End Loop -->
+
+</div>
+<!-- Content -->
+
+{% include footer.html %} 
+
+<script src="/assets/js/min/default-min.js"></script>
+<script src="/assets/js/min/music-min.js"></script>
+
+</body>
+
+</html>

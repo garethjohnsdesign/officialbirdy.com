@@ -1,0 +1,44 @@
+---
+title: Birdy
+timezone: UTC
+collections:
+  featured-videos:
+    title: Featured Videos
+    output: true
+  music:
+    title: Music
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  videos:
+    title: Videos
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+analytics: UA-75589201-1
+typekit: 
+description: The New Album Out Now featuring the single Keeping Your Head Up
+domain: http://officialbirdy.com
+company: Atlantic Records UK
+email: hello@officialbirdy.com
+facebook: https://www.facebook.com/BirdyMusic
+twitter: https://twitter.com/birdy
+youtube: https://www.youtube.com/user/OfficialBirdy
+instagram: https://www.instagram.com/birdyinstagram/
+spotify: https://play.spotify.com/artist/2WX2uTcsvV5OnS0inACecP
+soundcloud: https://soundcloud.com/officialbirdy
+permalink: pretty

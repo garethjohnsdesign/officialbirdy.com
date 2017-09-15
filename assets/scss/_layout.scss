@@ -1,0 +1,51 @@
+body {
+    opacity: 1;
+    transition: 1s opacity;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
+// Util
+
+.wow {
+  visibility: hidden;
+}
+
+:focus {
+    outline: -webkit-focus-ring-color auto 0px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 0px;
+}
+
+// Typography
+
+h1 {
+	font-family: $header-serif;
+	text-transform: uppercase;
+	letter-spacing: 0.5rem;
+}
+
+// Layout
+
+.section {
+	padding: 5rem 0;
+	border-bottom: 1px solid $project-white;
+}
+
+.section-title {
+	padding: 0 0 3rem 0;
+}
+
+#music { 
+}
+
+#subscribe { 
+}
+
+#live {
+  border-bottom: 0px solid $project-white;
+}
